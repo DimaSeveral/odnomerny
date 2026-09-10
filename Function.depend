@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1788677496 source:c:\users\admin\desktop\static\project_one\sec\function\function.cpp
+	<iostream>
+	<math.h>
+	<random>
+	<time.h>
+	<windows.h>
+
+1789019586 source:c:\users\admin\desktop\Рабочий стол\programirovanie\teoriya_evo_vichisleny\sec\function\function.cpp
+	<iostream>
+	<math.h>
+	<random>
+	<time.h>
+	<windows.h>
+
